@@ -16,7 +16,7 @@ Réponse :
 
 ---
 
-### Quelles seraient tes pistes d'améliorations sur la partie technique si tu devais envoyer cette application en production ? (Une version plus complète existe déjà en production)
+### Quelles seraient tes pistes d'améliorations sur la partie technique si tu devais envoyer ce site en production ?
 
 Réponse :
 
